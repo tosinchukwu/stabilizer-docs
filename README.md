@@ -63,13 +63,13 @@ Read the full technical specification in our [whitepaper](https://stabilizer-1.g
 
 ### Phase 1 (Current)
 - ✅ Whitepaper released
+- ✅ Core protocol development
 - ✅ Community building 
 - ✅ Comparison tool launched
-- 🔄 Protocol development
+- ✅ Testnet launch
 
 ### Phase 2
 - 📋 Security audits
-- 🧪 Testnet launch
 - 📖 Open source contracts
 - 🤝 Strategic partnerships
 
@@ -131,8 +131,6 @@ Security is our top priority. Our contracts will undergo multiple professional a
 ---
 
 ## 📄 License
-
-The Stabilizer protocol is released under the **Business Source License (BUSL)**. 
 
 Documentation and non-core code are released under the MIT License.
 
